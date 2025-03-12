@@ -7,7 +7,7 @@ int main() {
     srand(time(0)); 
 
     // Generate a random number between 0 and 99
-    int randomNumber = rand() % 100;
+    int randomNumber = rand() % 100
     int n, guessed = 0; // Initialize guessed to 0
 
     // printf("%d",randomNumber);
